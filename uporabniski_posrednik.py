@@ -2,9 +2,9 @@ import requests
 
 GLAVA = {
     "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/126.0.0.0 Safari/537.36"
+        "BillboardResearchBot/1.0 "
+        "https://github.com/lucijame/seminarska_uvp "
+        "lucija.medja@gmail.com)"
     )
 }
 
